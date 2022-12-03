@@ -24,7 +24,7 @@ if(num//10) <= 99 and (num//10) >= 10:
         st = "chin tram"
     
     if chuc == 0:
-        sc = "khong linh"
+        sc = "linh"
     if chuc == 1:
         sc = "muoi "
     if chuc == 2:
